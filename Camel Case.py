@@ -8,6 +8,9 @@ class Trie:
     def __init__(self):
         self.root=TrieNode()
 
+def peace(message):
+    print("peace was never an option")
+
 
 def insert(root,key):
     cur=root
